@@ -45,7 +45,7 @@
     "agentkeepalive": "^3.5.2",
     "cbor-js": "^0.1.0",
     "cbor-sync": "^1.0.4",
-    "isomorphic-webcrypto": "^2.3.6",
+    "isomorphic-webcrypto": "github:bilalsyed001/isomorphic-webcrypto#bugfix/remove-expo",
     "lil-uuid": "^0.1.1",
     "superagent": "^6.1.0",
     "superagent-proxy": "^3.0.0"
